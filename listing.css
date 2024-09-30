@@ -1,0 +1,20 @@
+.property-details{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.property-details img{
+    margin: 30px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+#listing-heading{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#listing-desc{
+    margin: 50px 200px;
+}
